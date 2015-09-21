@@ -1,4 +1,4 @@
-package com.javacl.test.util;
+package com.javacl.test;
 
 import java.util.Stack;
 
