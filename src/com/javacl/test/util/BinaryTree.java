@@ -1,6 +1,7 @@
 package com.javacl.test.util;
 
 /**
+ * ¶ş²æÊ÷
  * Created by caoliang on 2015/9/21.
  */
 public class BinaryTree {
