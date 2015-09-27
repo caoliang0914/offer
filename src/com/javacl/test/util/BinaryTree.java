@@ -1,11 +1,11 @@
 package com.javacl.test.util;
 
 /**
- * ¶ş²æÊ÷
+ * äºŒå‰æ ‘åŸå‹
  * Created by caoliang on 2015/9/21.
  */
 public class BinaryTree {
-    public int root; //¸ù½Úµã
-    public BinaryTree left; //×ó×ÓÊ÷
-    public BinaryTree right; //ÓÒ×ÓÊ÷
+    public int root; //æ ¹èŠ‚ç‚¹
+    public BinaryTree left; //å·¦å­æ ‘
+    public BinaryTree right; //å³å­æ ‘
 }
