@@ -1,7 +1,7 @@
 package com.javacl.test.util;
 
 /**
- * 链表节点原型
+ * 閾捐〃鑺傜偣
  * Created by caoliang on 2015/9/23.
  */
 public class ListNode {
