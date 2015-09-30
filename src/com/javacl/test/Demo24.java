@@ -39,7 +39,7 @@ public class Demo24 {
         //判断右子树是不是二叉搜索树
         boolean right = false;
         if (i<length-1) {
-            right = vertifySquenceOfbST(Arrays.copyOfRange(sequence, i, length), length-i-1)
+            right = vertifySquenceOfbST(Arrays.copyOfRange(sequence, i, length), length-i-1);
         }
 
         return (left&&right);
