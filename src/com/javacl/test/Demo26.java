@@ -6,7 +6,7 @@ import com.javacl.test.util.ComplexListNode;
  * 复杂链表的复制
  * Created by caoliang on 2015/9/30.
  */
-public class Deno26 {
+public class Demo26 {
 
     public static void main(String[] args) {
         ComplexListNode one = new ComplexListNode();
