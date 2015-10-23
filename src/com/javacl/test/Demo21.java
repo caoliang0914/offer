@@ -22,7 +22,7 @@ public class Demo21 {
 
     public static void push (Stack m_data, Stack m_min, int value){
         m_data.push(value);
-        if (m_min.size() == 0 || value < (int)m_min.peek()) {
+        if (m_min.size() == 0 || value <  Integer.parseInt(m_min.peek().toString())) {
             m_min.push(value);
         } else {
             m_min.push(m_min.peek());
@@ -38,7 +38,7 @@ public class Demo21 {
 
     public static int stackWithMin (Stack m_data, Stack m_min) {
         if (m_data.size()>0 && m_min.size() > 0) {
-            return (int)m_min.peek();
+            return Integer.parseInt(m_min.peek().toString());
         } else {
             return -1000;
         }
