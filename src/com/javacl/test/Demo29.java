@@ -46,7 +46,7 @@ public class Demo29 {
 		
 		int result = numbers[0];
 		int times = 1;
-		for (int i = 0; i < numbers.length; i++) {
+		for (int i = 1; i < numbers.length; i++) {
 			if (times == 0) {
 				result = numbers[i];
 				times = 1;
