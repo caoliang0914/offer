@@ -1,10 +1,9 @@
 package com.javacl.test;
 
 /**
- * 
- * 字符串的排列
- * 
- * @author 一粟 2015年10月23日 下午3:13:55
+ * @author cl E-mail: caoliang0914@gmail.com 
+ * @version 0.1 create time：2016年4月5日 下午8:13:32 
+ * 字符串排列
  */
 public class Demo28 {
 
